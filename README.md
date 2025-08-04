@@ -1,5 +1,9 @@
 # 📊 GCash User Engagement Analysis
 
+This project is a comprehensive case study analyzing user behavior on the GCash mobile app, one of the leading digital wallets in the Philippines. Using SQL for data cleaning and data analysis, and Power BI for interactive visualization, the goal is to uncover patterns in user engagement, identify retention risks, and provide actionable insights for business strategy and product improvement.
+
+This portfolio piece demonstrates my end-to-end analytics workflow—from data preparation and SQL-based analysis to dashboard creation and insight storytelling.
+
 ## 📌 Objective
 Analyze GCash app user transaction behavior to uncover engagement patterns, identify "at risk" segments, and generate actionable insights for retention.
 

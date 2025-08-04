@@ -55,7 +55,7 @@ To explore the interactive dashboard:
 > A large portion of users are classified as "At Risk." Most drop-offs occur within the first two months post-signup. Gaming-related transactions are rising, suggesting a behavioral shift in user spending.
 
 ## 🖥 Dashboard Preview
-![Dashboard Screenshot](dashboards/dashboard_preview.png)
+![Dashboard Screenshot]([dashboards/dashboard_preview.png](https://github.com/leojrosales26/gcash-user-engagement-analysis/blob/main/GCash_user_engagement_analysis_screenshot.png))
 
 ## 👤 About Me
 🔗 Hi, I'm Gabriel—a data analyst passionate about turning complex business questions into data-driven insights. I specialize in SQL, Power BI, Spreadsheets, and end-to-end analytics workflows.

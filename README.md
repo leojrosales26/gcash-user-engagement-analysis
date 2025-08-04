@@ -22,7 +22,7 @@ This portfolio piece demonstrates my end-to-end analytics workflow—from data p
 - Providing insights to support retention and engagement strategies
 
 ## 🛠 Tools Used
-![SQL](https://img.shields.io/badge/MySQL-blue?logo=googlecloud)
+![SQL](https://img.shields.io/badge/MySQL-blue?)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-brightgreen?logo=microsoftexcel)
 ![Power User](https://img.shields.io/badge/Role-Data%20Analyst-informational)

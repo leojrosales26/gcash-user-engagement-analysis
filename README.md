@@ -29,11 +29,10 @@ This portfolio piece demonstrates my end-to-end analytics workflow—from data p
   2. Standardized formats
   3. Check for null values
   4. Join the two tables for ease of data visualization
-- Data Analysis
-  1. Exploratory Data Analysis
-     a. Initial Calculations
-     b. Cohort Analysis
-     c. User Segmentation
+- Exploratory Data Analysis
+  1. Initial Calculations
+  2. Cohort Analysis
+  3. User Segmentation
 - Data Visualization
   1. Microsoft Power BI Dashboard
 - Insights Generation

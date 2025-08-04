@@ -1,20 +1,20 @@
 # 📊 GCash User Engagement Analysis
 
-This project is a comprehensive case study analyzing user behavior on the GCash mobile app, one of the leading digital wallets in the Philippines. Using SQL for data cleaning and data analysis, and Power BI for interactive visualization, the goal is to uncover patterns in user engagement, identify retention risks, and provide actionable insights for business strategy and product improvement.
+A complete end-to-end user engagement analysis of GCash, a leading fintech app in the Philippines—featuring SQL-driven analytics and an interactive Power BI dashboard to uncover behavior patterns, retention risks, and business opportunities.
 
 This portfolio piece demonstrates my end-to-end analytics workflow—from data preparation and SQL-based analysis to dashboard creation and insight storytelling.
 
 ## 📚 Table of Contents
 
-- [Objective](#objective)
-- [Tools Used](#tools-used)
-- [Project Structure](#project-structure)
-- [Key Analyses](#key-analyses)
-- [Getting Started](#getting-started)
-- [Sample Insight](#sample-insight)
-- [Live Demo](#live-demo-optional)
-- [About Me](#about-me)
-- [Contact / Contributions](#contact--contributions)  
+- [Objective](##objective)
+- [Tools Used](##tools-used)
+- [Project Structure](##project-structure)
+- [Key Analyses](##key-analyses)
+- [Getting Started](##getting-started)
+- [Sample Insight](##sample-insight)
+- [Dashboard Preview](##dashboard-preview)
+- [About Me](##about-me)
+- [Contact / Contributions](##contact--contributions)  
 
 ## 📌 Objective
 - Identifying at-risk and high-value segments
@@ -22,10 +22,9 @@ This portfolio piece demonstrates my end-to-end analytics workflow—from data p
 - Providing insights to support retention and engagement strategies
 
 ## 🛠 Tools Used
-![SQL](https://img.shields.io/badge/MySQL-blue?)
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=powerbi)
-![Power User](https://img.shields.io/badge/Role-Data%20Analyst-informational)
-
+![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Role: Data Analyst](https://img.shields.io/badge/Role-Data%20Analyst-informational)
 
 ## 🗂 Project Structure
 - `/data/` – Sample/anonymized dataset
@@ -56,7 +55,6 @@ This portfolio piece demonstrates my end-to-end analytics workflow—from data p
 - **Engagement Funnel**: Tracked key drop-off points across user lifecycle.
 
 ## 🚀 Getting Started
-
 To explore the interactive dashboard:
 1. Download the `gcash_case_study_dashboard_Rosales.pbix` file from the `/dashboards/` folder.
 2. Open with [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
@@ -65,11 +63,14 @@ To explore the interactive dashboard:
 > **Note:** No login or credentials required—this uses anonymized data.
 
 
-## 💡 Sample Insight
+##💡Key Business Insight
 > A large portion of users are classified as "At Risk." Most drop-offs occur within the first two months post-signup. Gaming-related transactions are rising, suggesting a behavioral shift in user spending.
 
+## 🖥 Dashboard Preview
+![Dashboard Screenshot](dashboards/dashboard_preview.png)
+
 ## 👤 About Me
-🔗 I'm **Gabriel Leoj Rosales**, a data analyst passionate about transforming business problems into data-backed solutions. With experience in SQL, Power BI, Excel, and real-world case studies, I bring analytical rigor and practical storytelling into my work.
+🔗 Hi, I'm Gabriel—a data analyst passionate about turning complex business questions into data-driven insights. I specialize in SQL, Power BI, Spreadsheets, and end-to-end analytics workflows.
 📎 [LinkedIn Profile](https://www.linkedin.com/in/gabriel-leoj-rosales-24690b24a)  
 📫 leojrosales26@gmail.com
 

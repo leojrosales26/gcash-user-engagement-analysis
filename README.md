@@ -44,7 +44,7 @@ This portfolio piece demonstrates my end-to-end analytics workflow—from data p
 
 ## 🚀 Getting Started
 To explore the interactive dashboard:
-1. Download the `gcash_case_study_dashboard_Rosales.pbix` file from the `/dashboards/` folder.
+1. Download the `gcash_case_study_dashboard_Rosales.pbix` (https://github.com/leojrosales26/gcash-user-engagement-analysis/blob/main/gcash_case_study_dashboard_Rosales.pbix) file from the `/dashboards/` folder.
 2. Open with [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
 3. Navigate through the Overview, Segmentation, and Location pages.
 

@@ -4,18 +4,6 @@ A complete end-to-end user engagement analysis of GCash, a leading fintech app i
 
 This portfolio piece demonstrates my end-to-end analytics workflow—from data preparation and SQL-based analysis to dashboard creation and insight storytelling.
 
-## 📚 Table of Contents
-
-- [Objective](##objective)
-- [Tools Used](##tools-used)
-- [Project Structure](##project-structure)
-- [Key Analyses](##key-analyses)
-- [Getting Started](##getting-started)
-- [Sample Insight](##sample-insight)
-- [Dashboard Preview](##dashboard-preview)
-- [About Me](##about-me)
-- [Contact / Contributions](##contact--contributions)  
-
 ## 📌 Objective
 - Identifying at-risk and high-value segments
 - Performing cohort analysis and segmentation
